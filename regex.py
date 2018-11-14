@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 11 08:54:05 2018
 
-@author: Sanmoy
-"""
+
 import regex as re
 article = ["big data", "metadata", "data science", "Bangalore", "teradataing"]       
 lst=[]
